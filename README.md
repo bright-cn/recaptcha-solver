@@ -1,5 +1,5 @@
 # reCaptcha CAPTCHA 解决方案  
-[![Promo](https://github.com/bright-cn/Awesome-Web-Scraping/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://bright.cn)
+[![Promo](https://github.com/bright-cn/Awesome-Web-Scraping/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://bright.cn/products/web-unlocker/catpcha-solver/recaptcha)
 
 轻松利用 Bright Data 的先进 CAPTCHA 解决技术绕过 reCaptcha CAPTCHA。通过机器学习算法、[自动化 IP 轮换](https://bright.cn/solutions/rotating-proxies)以及强大的代理基础设施，确保稳定且顺畅地访问目标网站。  
 Bright Data 的 CAPTCHA Solver 是 [**Scraping Browser**](https://bright.cn/products/scraping-browser) 和 [**Web Unlocker API**](https://bright.cn/products/web-unlocker) 的内置功能，可完整应对最复杂的 CAPTCHA 挑战。
